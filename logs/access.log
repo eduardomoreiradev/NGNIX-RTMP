@@ -1,0 +1,27 @@
+192.168.1.112 [14/Jun/2024:15:32:08 -0300] PUBLISH "live" "" "" - 62140286 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 22s)
+192.168.1.112 [14/Jun/2024:15:32:33 -0300] PLAY "live" "" "" - 535 56723548 "" "LNX 9,0,124,2" (1m 25s)
+192.168.1.112 [14/Jun/2024:15:36:11 -0300] PLAY "live" "" "" - 862 164133233 "" "LNX 9,0,124,2" (3m 38s)
+192.168.1.112 [14/Jun/2024:15:36:49 -0300] PUBLISH "live" "" "" - 212368361 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (4m 40s)
+192.168.1.112 [14/Jun/2024:15:41:58 -0300] PUBLISH "live" "" "" - 198972006 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (4m 19s)
+192.168.1.112 [14/Jun/2024:16:12:02 -0300] PUBLISH "live" "" "" - 399077534 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (8m 45s)
+192.168.1.112 [15/Jun/2024:08:22:33 -0300] PLAY "live" "" "" - 804 145406717 "" "LNX 9,0,124,2" (3m 14s)
+192.168.1.112 [15/Jun/2024:08:27:21 -0300] PUBLISH "live" "" "" - 390812031 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (8m 37s)
+192.168.1.112 [15/Jun/2024:08:27:34 -0300] PLAY "live" "" "" - 998 210796192 "" "LNX 9,0,124,2" (4m 55s)
+192.168.1.112 [16/Jun/2024:10:36:16 -0300] PUBLISH "live" "" "" - 17631611 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 4s)
+192.168.1.112 [16/Jun/2024:10:38:01 -0300] PLAY "live" "" "" - 535 56923180 "" "LNX 9,0,124,2" (1m 15s)
+192.168.1.112 [16/Jun/2024:10:40:33 -0300] PLAY "live" "" "" - 969 192260978 "" "LNX 9,0,124,2" (5m 17s)
+192.168.1.112 [16/Jun/2024:10:47:50 -0300] PLAY "live" "" "" - 1395 332276910 "" "LNX 9,0,124,2" (7m 16s)
+192.168.1.112 [16/Jun/2024:10:48:19 -0300] PUBLISH "live" "" "" - 531706713 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (11m 38s)
+127.0.0.1 - - [17/Jun/2024:11:22:46 -0300] "\x03\x00vA\x1D\x00\x00\x00\x00)\x00\x00\x00#H\x00\x00\xBE\x18\x00\x00\x84g\x00\x00\xE1J\x00\x00l=\x00\x00\xD6,\x00\x00\xAEr\x00\x00Ri\x00\x00\x90_\x00\x00I\x16\x00\x00\xF1m\x00\x00\xF1Z\x00\x00\xBBA\x00\x00\xE9&\x00\x00\xEB\x01\x00\x00\xB3\x0B\x00\x00\xA6.\x00\x00\xDB\x12\x00\x00<\x15\x00\x00\x87~\x00\x00\x0C9\x00\x00>\x0F\x00\x00\x99\x00\x00\x00$\x01\x00\x00^0\x00\x00" 400 173 "-" "-"
+127.0.0.1 - - [17/Jun/2024:11:24:20 -0300] "GET / HTTP/1.1" 200 1420 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+127.0.0.1 - - [17/Jun/2024:11:24:20 -0300] "GET /favicon.ico HTTP/1.1" 404 571 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+192.168.1.112 [17/Jun/2024:11:25:51 -0300] PLAY "live" "" "" - 364 2986109 "" "LNX 9,0,124,2" (3s)
+127.0.0.1 - - [17/Jun/2024:11:27:01 -0300] "GET / HTTP/1.1" 200 1278 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+127.0.0.1 - - [17/Jun/2024:11:27:06 -0300] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+127.0.0.1 - - [17/Jun/2024:11:27:44 -0300] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+127.0.0.1 - - [17/Jun/2024:11:27:45 -0300] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+127.0.0.1 - - [17/Jun/2024:11:28:16 -0300] "GET / HTTP/1.1" 200 1785 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+127.0.0.1 - - [17/Jun/2024:11:28:16 -0300] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+127.0.0.1 - - [17/Jun/2024:11:29:26 -0300] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+127.0.0.1 - - [17/Jun/2024:11:30:02 -0300] "GET / HTTP/1.1" 200 1100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+127.0.0.1 [17/Jun/2024:11:30:17 -0300] PUBLISH "live" "" "" - 477827753 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (6m 23s)
